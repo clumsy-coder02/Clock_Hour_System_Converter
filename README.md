@@ -18,7 +18,7 @@ This program allows you to input a time and automatically converts it between 12
 Run the program from the terminal:
 
 ```bash
-python main.py
+python main.py or python3 main.py
 ```
 
 Follow the prompts:
